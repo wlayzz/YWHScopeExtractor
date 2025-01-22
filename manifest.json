@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "YWH Scopes Extractor",
+  "version": "1.0",
+  "description": "Extract scopes from yeswehack",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
